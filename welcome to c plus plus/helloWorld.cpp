@@ -4,7 +4,8 @@
 
 #include <iostream>
 
-void Log(const char* message) {
+int main() {
     using namespace std;
-    cout << message << endl;
+    cout << 'Hello world' << endl;
+    cin.get();
 }
