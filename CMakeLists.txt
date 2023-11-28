@@ -13,4 +13,6 @@ add_executable(cPlusPlus main.cpp
         cPlusPlusConditionalStatement/ConditionalStatement.cpp
         cPlusPlusLoop/cPlusPlusLoop.cpp
         cPlusPlusLoop/cPlusPlusLoop.h
-        cPlusPlusControlFlow/cPlusPlusControlFlow.cpp)
+        cPlusPlusControlFlow/cPlusPlusControlFlow.cpp
+        cPlusPlusPointer/cPlusPlusPointer.cpp
+        init.h)

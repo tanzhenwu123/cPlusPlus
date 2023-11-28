@@ -10,6 +10,7 @@ void Conditional(int cod);
 void Loop();
 
 int ControlLog();
+#include "init.h";
 
 int main() {
     int result = Multiply(3, 9);
@@ -19,6 +20,7 @@ int main() {
      using namespace std;
     // cout << result << endl;
     cout << controlResult << endl;
+    howPoint();
     // logMessage();
     // Loop();
     cin.get();
