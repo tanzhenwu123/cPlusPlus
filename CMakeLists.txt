@@ -10,4 +10,6 @@ add_executable(cPlusPlus main.cpp
         cPlusPlusVariable/variable.cpp
         cPlusPlusFunction/cPlusPlusFunction.cpp
         cPlusPlusHeadFile/cPLusPlusHead.h
-        cPlusPlusConditionalStatement/ConditionalStatement.cpp)
+        cPlusPlusConditionalStatement/ConditionalStatement.cpp
+        cPlusPlusLoop/cPlusPlusLoop.cpp
+        cPlusPlusLoop/cPlusPlusLoop.h)

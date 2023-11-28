@@ -7,12 +7,15 @@ int Multiply(int a, int b);
 
 void Conditional(int cod);
 
+void Loop();
+
 int main() {
     int result = Multiply(3, 9);
     // VariableDemo();
-    Conditional(1);
-    using namespace std;
-    cout << result << endl;
-    logMessage();
+    // Conditional(1);
+     using namespace std;
+    // cout << result << endl;
+    // logMessage();
+    Loop();
     cin.get();
 }
