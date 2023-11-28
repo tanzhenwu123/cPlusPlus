@@ -17,11 +17,12 @@ int main() {
     // VariableDemo();
     // Conditional(1);
     // int controlResult = ControlLog();
+    playerLog();
      using namespace std;
     // cout << result << endl;
     // cout << controlResult << endl;
     // howPoint();
-    Quote();
+    // Quote();
     // logMessage();
     // Loop();
     cin.get();

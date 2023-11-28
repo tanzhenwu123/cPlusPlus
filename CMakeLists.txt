@@ -17,4 +17,5 @@ add_executable(cPlusPlus main.cpp
         cPlusPlusPointer/cPlusPlusPointer.cpp
         init.h
         cPlusPlusQuote/cPlusPlusQuote.cpp
+        cPlusPlusClass/cPlusPlusClass.cpp
         cPlusPlusClass/cPlusPlusClass.cpp)
