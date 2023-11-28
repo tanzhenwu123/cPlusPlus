@@ -8,3 +8,4 @@
 #endif //CPLUSPLUS_INIT_H
 
 int howPoint();
+int Quote();

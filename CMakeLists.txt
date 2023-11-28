@@ -15,4 +15,6 @@ add_executable(cPlusPlus main.cpp
         cPlusPlusLoop/cPlusPlusLoop.h
         cPlusPlusControlFlow/cPlusPlusControlFlow.cpp
         cPlusPlusPointer/cPlusPlusPointer.cpp
-        init.h)
+        init.h
+        cPlusPlusQuote/cPlusPlusQuote.cpp
+        cPlusPlusClass/cPlusPlusClass.cpp)
