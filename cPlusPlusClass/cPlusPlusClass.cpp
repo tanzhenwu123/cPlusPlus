@@ -40,13 +40,15 @@ void playerLog() {
 
 class logUtil {
 public:
-    const int logLevelError = 0;
-    const int logLevelWarning = 1;
-    const int logLevelInfo = 2;
+    enum level{
+        Error = 0,
+        Waring = 1,
+        Info = 2
+    };
 private:
-    int logLevel;
+    level logLevel;
 public:
-    void setLevel(int level) {
+    void setLevel(level level) {
         logLevel = level;
     };
     void sendLogger(const char* message) {
@@ -61,6 +63,6 @@ public:
 
 void achieveLogUtil() {
     logUtil LogUtil;
-    LogUtil.setLevel(LogUtil.logLevelInfo);
+    LogUtil.setLevel(logUtil::Error);
     LogUtil.sendLogger("code: 1040");
 }

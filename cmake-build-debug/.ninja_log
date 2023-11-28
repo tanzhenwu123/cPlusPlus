@@ -1,22 +1,15 @@
 # ninja log v5
 17	341	7228582195485684	CMakeFiles/cPlusPlus.dir/cPlusPlusQuote/cPlusPlusQuote.cpp.obj	cfa9bdc35b7b2d9f
 13	289	7222727767326137	CMakeFiles/cPlusPlus.dir/cPlusPlusFunction/cPlusPlusFunction.cpp.obj	c05713553046b41a
-1	125	7228656638492754	build.ninja	21cafc69e9371726
+0	161	7228668467767899	build.ninja	21cafc69e9371726
 13	174	7222660692995024	CMakeFiles/cPlusPlus.dir/howCompilerWork/compiler.cpp.obj	4adda2d895238eaf
-4	275	7228640718151996	CMakeFiles/cPlusPlus.dir/main.cpp.obj	9fd590f4e1d188d7
+3	280	7228663098844819	CMakeFiles/cPlusPlus.dir/main.cpp.obj	9fd590f4e1d188d7
 23	333	7222660694599376	CMakeFiles/cPlusPlus.dir/howDoeLinkerWork/linker.cpp.obj	934d60c0a1895d1
 28	1265	7228450111397286	CMakeFiles/cPlusPlus.dir/cPlusPlusConditionalStatement/ConditionalStatement.cpp.obj	ad61244b88f29e9d
-294	463	7228647968484227	cPlusPlus.exe	c5ba91b4bdfce945
+291	440	7228663100402992	cPlusPlus.exe	c5ba91b4bdfce945
 2	281	7222679512641209	CMakeFiles/cPlusPlus.dir/cPlusPlusVariable/variable.cpp.obj	7625626e97daf020
 2	270	7228472087226002	CMakeFiles/cPlusPlus.dir/cPlusPlusLoop/cPlusPlusLoop.cpp.obj	8d4d91c8e565de0e
 3	316	7228629219267535	CMakeFiles/cPlusPlus.dir/cPlusPlusClass/cPlusPlusClass.cpp.obj	5b608f68c00213f
 17	300	7228522791157745	CMakeFiles/cPlusPlus.dir/cPlusPlusControlFlow/cPlusPlusControlFlow.cpp.obj	3f22fb9b018e1eac
 14	340	7228547292442345	CMakeFiles/cPlusPlus.dir/cPlusPlusPointer/cPlusPlusPointer.cpp.obj	7e76b75339e94d55
-3	293	7228647966876497	CMakeFiles/cPlusPlus.dir/cPlusPlusStaticPropertiesOfClass/cPlusPlusStaticPropertiesOfClass.cpp.obj	4507443d998286e9
-0	161	7228656638492754	build.ninja	21cafc69e9371726
-3	284	7228656641611012	CMakeFiles/cPlusPlus.dir/main.cpp.obj	9fd590f4e1d188d7
-13	287	7228656641630164	CMakeFiles/cPlusPlus.dir/cPlusPlusStaticPropertiesOfClass/cPlusPlusStaticPropertiesOfClass.cpp.obj	4507443d998286e9
-287	437	7228656643096901	cPlusPlus.exe	c5ba91b4bdfce945
-3	280	7228663098844819	CMakeFiles/cPlusPlus.dir/main.cpp.obj	9fd590f4e1d188d7
 21	291	7228663098954507	CMakeFiles/cPlusPlus.dir/cPlusPlusStaticPropertiesOfClass/cPlusPlusStaticPropertiesOfClass.cpp.obj	4507443d998286e9
-291	440	7228663100402992	cPlusPlus.exe	c5ba91b4bdfce945
