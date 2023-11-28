@@ -31,3 +31,9 @@ void playerLog() {
     using namespace std;
     cout<<"player PageX:"<<player.x<<", "<<"player PageY:"<<player.y<<endl;
 }
+
+// 有种感觉叫边学边拉
+// 类和构造体的区别
+// 就一句话
+// 从技术上讲 class默认属性为private 构造体默认public，而构造体存在不仅仅是为了少那么一句public，c++在考虑对c的向后兼容时保存了构造体的关键字
+// 这样在c++的编译器编译时就不会不认得构造体
