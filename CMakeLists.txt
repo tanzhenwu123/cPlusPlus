@@ -18,4 +18,5 @@ add_executable(cPlusPlus main.cpp
         init.h
         cPlusPlusQuote/cPlusPlusQuote.cpp
         cPlusPlusClass/cPlusPlusClass.cpp
-        cPlusPlusClass/cPlusPlusClass.cpp)
+        cPlusPlusClass/cPlusPlusClass.cpp
+        cPlusPlusStaticPropertiesOfClass/cPlusPlusStaticPropertiesOfClass.cpp)

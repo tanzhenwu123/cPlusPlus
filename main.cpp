@@ -17,8 +17,9 @@ int main() {
     // VariableDemo();
     // Conditional(1);
     // int controlResult = ControlLog();
-    playerLog();
-    achieveLogUtil();
+    // playerLog();
+    // achieveLogUtil();
+    logEntity();
      using namespace std;
     // cout << result << endl;
     // cout << controlResult << endl;

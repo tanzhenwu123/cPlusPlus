@@ -8,5 +8,6 @@ int howPoint();
 int Quote();
 void playerLog();
 void achieveLogUtil();
+void logEntity();
 
 #endif //CPLUSPLUS_INIT_H
