@@ -7,5 +7,6 @@
 int howPoint();
 int Quote();
 void playerLog();
+void achieveLogUtil();
 
 #endif //CPLUSPLUS_INIT_H

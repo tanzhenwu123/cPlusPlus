@@ -18,6 +18,7 @@ int main() {
     // Conditional(1);
     // int controlResult = ControlLog();
     playerLog();
+    achieveLogUtil();
      using namespace std;
     // cout << result << endl;
     // cout << controlResult << endl;

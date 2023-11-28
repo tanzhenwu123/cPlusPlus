@@ -37,3 +37,30 @@ void playerLog() {
 // 就一句话
 // 从技术上讲 class默认属性为private 构造体默认public，而构造体存在不仅仅是为了少那么一句public，c++在考虑对c的向后兼容时保存了构造体的关键字
 // 这样在c++的编译器编译时就不会不认得构造体
+
+class logUtil {
+public:
+    const int logLevelError = 0;
+    const int logLevelWarning = 1;
+    const int logLevelInfo = 2;
+private:
+    int logLevel;
+public:
+    void setLevel(int level) {
+        logLevel = level;
+    };
+    void sendLogger(const char* message) {
+        char* logList[] = {
+                "[ERROR] -> ",
+                "[WARNING] -> ",
+                "[INFO] -> "
+        };
+        std::cout<<logList[logLevel]<<message<<std::endl;
+    };
+};
+
+void achieveLogUtil() {
+    logUtil LogUtil;
+    LogUtil.setLevel(LogUtil.logLevelInfo);
+    LogUtil.sendLogger("code: 1040");
+}
