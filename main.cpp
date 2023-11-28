@@ -19,7 +19,11 @@ int main() {
     // int controlResult = ControlLog();
     // playerLog();
     // achieveLogUtil();
-    logEntity();
+    // logEntity();
+    // for(int j = 0; j < 5; j++) {
+    //     superAdd();
+    //  }
+    initSingleExample();
      using namespace std;
     // cout << result << endl;
     // cout << controlResult << endl;

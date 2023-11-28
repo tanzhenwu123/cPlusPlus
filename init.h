@@ -9,5 +9,7 @@ int Quote();
 void playerLog();
 void achieveLogUtil();
 void logEntity();
+void superAdd();
+void initSingleExample();
 
 #endif //CPLUSPLUS_INIT_H
