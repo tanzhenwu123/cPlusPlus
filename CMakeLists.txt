@@ -23,4 +23,5 @@ add_executable(cPlusPlus main.cpp
         cPlusPlusConstructor/cPlusPlusConstructor.cpp
         cPlusPlusExtends/cPlusPlusExtends.cpp
         cPlusPlusVoidFunction/cPlusPlusVoidFunction.cpp
+        cPlusPlusVisibility/cPlusPlusVisibility.cpp
 )
