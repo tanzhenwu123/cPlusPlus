@@ -15,5 +15,6 @@ void initExample();
 void initPhone();
 void initModel();
 void initCard();
+void printStr();
 
 #endif //CPLUSPLUS_INIT_H

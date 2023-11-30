@@ -25,4 +25,5 @@ add_executable(cPlusPlus main.cpp
         cPlusPlusVoidFunction/cPlusPlusVoidFunction.cpp
         cPlusPlusVisibility/cPlusPlusVisibility.cpp
         CplusPlusArray/index.cpp
+        cPlusPlusString/index.cpp
 )
