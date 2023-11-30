@@ -22,4 +22,5 @@ add_executable(cPlusPlus main.cpp
         cPlusPlusEnums/cPlusPlusEnums.cpp
         cPlusPlusConstructor/cPlusPlusConstructor.cpp
         cPlusPlusExtends/cPlusPlusExtends.cpp
+        cPlusPlusVoidFunction/cPlusPlusVoidFunction.cpp
 )

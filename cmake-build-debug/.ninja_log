@@ -1,12 +1,12 @@
 # ninja log v5
 17	341	7228582195485684	CMakeFiles/cPlusPlus.dir/cPlusPlusQuote/cPlusPlusQuote.cpp.obj	cfa9bdc35b7b2d9f
 13	289	7222727767326137	CMakeFiles/cPlusPlus.dir/cPlusPlusFunction/cPlusPlusFunction.cpp.obj	c05713553046b41a
-0	161	7230302097998442	build.ninja	21cafc69e9371726
+0	161	7230313514721239	build.ninja	21cafc69e9371726
 13	174	7222660692995024	CMakeFiles/cPlusPlus.dir/howCompilerWork/compiler.cpp.obj	4adda2d895238eaf
 36	113	7228683109365619	CMakeFiles/cPlusPlus.dir/cPlusPlusEnums/cPlusPlusEnums.cpp.obj	c3e54f394ab022b2
-4	301	7228683111254635	CMakeFiles/cPlusPlus.dir/main.cpp.obj	9fd590f4e1d188d7
+4	330	7230307788878317	CMakeFiles/cPlusPlus.dir/main.cpp.obj	9fd590f4e1d188d7
 23	333	7222660694599376	CMakeFiles/cPlusPlus.dir/howDoeLinkerWork/linker.cpp.obj	934d60c0a1895d1
-451	700	7230298659206564	cPlusPlus.exe	bd770a5ab42fd70
+279	423	7230308263453649	cPlusPlus.exe	cddfcf85273e28cb
 28	1265	7228450111397286	CMakeFiles/cPlusPlus.dir/cPlusPlusConditionalStatement/ConditionalStatement.cpp.obj	ad61244b88f29e9d
 2	281	7222679512641209	CMakeFiles/cPlusPlus.dir/cPlusPlusVariable/variable.cpp.obj	7625626e97daf020
 2	270	7228472087226002	CMakeFiles/cPlusPlus.dir/cPlusPlusLoop/cPlusPlusLoop.cpp.obj	8d4d91c8e565de0e
@@ -14,12 +14,10 @@
 17	300	7228522791157745	CMakeFiles/cPlusPlus.dir/cPlusPlusControlFlow/cPlusPlusControlFlow.cpp.obj	3f22fb9b018e1eac
 14	340	7228547292442345	CMakeFiles/cPlusPlus.dir/cPlusPlusPointer/cPlusPlusPointer.cpp.obj	7e76b75339e94d55
 64	357	7228683111813857	CMakeFiles/cPlusPlus.dir/cPlusPlusStaticPropertiesOfClass/cPlusPlusStaticPropertiesOfClass.cpp.obj	4507443d998286e9
-4	451	7230298656746744	CMakeFiles/cPlusPlus.dir/cPlusPlusConstructor/cPlusPlusConstructor.cpp.obj	31990147c44dbb6
-4	330	7230307788878317	CMakeFiles/cPlusPlus.dir/main.cpp.obj	9fd590f4e1d188d7
 15	334	7230307788918300	CMakeFiles/cPlusPlus.dir/cPlusPlusConstructor/cPlusPlusConstructor.cpp.obj	31990147c44dbb6
-24	348	7230307789057829	CMakeFiles/cPlusPlus.dir/cPlusPlusExtends/cPlusPlusExtends.cpp.obj	a821e7093d1a0689
-348	500	7230307790541403	cPlusPlus.exe	cddfcf85273e28cb
-4	309	7230308170920747	CMakeFiles/cPlusPlus.dir/cPlusPlusExtends/cPlusPlusExtends.cpp.obj	a821e7093d1a0689
-309	456	7230308172353887	cPlusPlus.exe	cddfcf85273e28cb
 4	278	7230308262044049	CMakeFiles/cPlusPlus.dir/cPlusPlusExtends/cPlusPlusExtends.cpp.obj	a821e7093d1a0689
-279	423	7230308263453649	cPlusPlus.exe	cddfcf85273e28cb
+5	5831	7230323358871837	CMakeFiles/cPlusPlus.dir/main.cpp.obj	9fd590f4e1d188d7
+17	5832	7230323358890895	CMakeFiles/cPlusPlus.dir/cPlusPlusVoidFunction/cPlusPlusVoidFunction.cpp.obj	22e9cad156c0910a
+5832	12952	7230323430039526	cPlusPlus.exe	a81bc091b16cc000
+4	296	7230329485651291	CMakeFiles/cPlusPlus.dir/cPlusPlusVoidFunction/cPlusPlusVoidFunction.cpp.obj	22e9cad156c0910a
+296	464	7230329487301490	cPlusPlus.exe	a81bc091b16cc000

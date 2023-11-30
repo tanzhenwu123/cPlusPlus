@@ -25,7 +25,8 @@ int main() {
     //  }
     // initSingleExample();
     // initExample();
-    initPhone();
+    // initPhone();
+    initModel();
      using namespace std;
     // cout << result << endl;
     // cout << controlResult << endl;

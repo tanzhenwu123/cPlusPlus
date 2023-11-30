@@ -13,5 +13,6 @@ void superAdd();
 void initSingleExample();
 void initExample();
 void initPhone();
+void initModel();
 
 #endif //CPLUSPLUS_INIT_H
