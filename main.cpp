@@ -24,7 +24,8 @@ int main() {
     //     superAdd();
     //  }
     // initSingleExample();
-    initExample();
+    // initExample();
+    initPhone();
      using namespace std;
     // cout << result << endl;
     // cout << controlResult << endl;

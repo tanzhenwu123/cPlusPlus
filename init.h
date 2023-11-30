@@ -12,5 +12,6 @@ void logEntity();
 void superAdd();
 void initSingleExample();
 void initExample();
+void initPhone();
 
 #endif //CPLUSPLUS_INIT_H
