@@ -11,5 +11,6 @@ void achieveLogUtil();
 void logEntity();
 void superAdd();
 void initSingleExample();
+void initExample();
 
 #endif //CPLUSPLUS_INIT_H

@@ -20,4 +20,5 @@ add_executable(cPlusPlus main.cpp
         cPlusPlusClass/cPlusPlusClass.cpp
         cPlusPlusStaticPropertiesOfClass/cPlusPlusStaticPropertiesOfClass.cpp
         cPlusPlusEnums/cPlusPlusEnums.cpp
+        cPlusPlusConstructor/cPlusPlusConstructor.cpp
 )

@@ -127,6 +127,12 @@ build CMakeFiles/cPlusPlus.dir/cPlusPlusEnums/cPlusPlusEnums.cpp.obj: CXX_COMPIL
   OBJECT_DIR = CMakeFiles\cPlusPlus.dir
   OBJECT_FILE_DIR = CMakeFiles\cPlusPlus.dir\cPlusPlusEnums
 
+build CMakeFiles/cPlusPlus.dir/cPlusPlusConstructor/cPlusPlusConstructor.cpp.obj: CXX_COMPILER__cPlusPlus_unscanned_Debug C$:/Users/Lenovo/Desktop/cPlusPlus/cPlusPlusConstructor/cPlusPlusConstructor.cpp || cmake_object_order_depends_target_cPlusPlus
+  DEP_FILE = CMakeFiles\cPlusPlus.dir\cPlusPlusConstructor\cPlusPlusConstructor.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\cPlusPlus.dir
+  OBJECT_FILE_DIR = CMakeFiles\cPlusPlus.dir\cPlusPlusConstructor
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target cPlusPlus
@@ -135,7 +141,7 @@ build CMakeFiles/cPlusPlus.dir/cPlusPlusEnums/cPlusPlusEnums.cpp.obj: CXX_COMPIL
 #############################################
 # Link the executable cPlusPlus.exe
 
-build cPlusPlus.exe: CXX_EXECUTABLE_LINKER__cPlusPlus_Debug CMakeFiles/cPlusPlus.dir/main.cpp.obj CMakeFiles/cPlusPlus.dir/howCompilerWork/compiler.cpp.obj CMakeFiles/cPlusPlus.dir/howDoeLinkerWork/linker.cpp.obj CMakeFiles/cPlusPlus.dir/cPlusPlusVariable/variable.cpp.obj CMakeFiles/cPlusPlus.dir/cPlusPlusFunction/cPlusPlusFunction.cpp.obj CMakeFiles/cPlusPlus.dir/cPlusPlusConditionalStatement/ConditionalStatement.cpp.obj CMakeFiles/cPlusPlus.dir/cPlusPlusLoop/cPlusPlusLoop.cpp.obj CMakeFiles/cPlusPlus.dir/cPlusPlusControlFlow/cPlusPlusControlFlow.cpp.obj CMakeFiles/cPlusPlus.dir/cPlusPlusPointer/cPlusPlusPointer.cpp.obj CMakeFiles/cPlusPlus.dir/cPlusPlusQuote/cPlusPlusQuote.cpp.obj CMakeFiles/cPlusPlus.dir/cPlusPlusClass/cPlusPlusClass.cpp.obj CMakeFiles/cPlusPlus.dir/cPlusPlusStaticPropertiesOfClass/cPlusPlusStaticPropertiesOfClass.cpp.obj CMakeFiles/cPlusPlus.dir/cPlusPlusEnums/cPlusPlusEnums.cpp.obj
+build cPlusPlus.exe: CXX_EXECUTABLE_LINKER__cPlusPlus_Debug CMakeFiles/cPlusPlus.dir/main.cpp.obj CMakeFiles/cPlusPlus.dir/howCompilerWork/compiler.cpp.obj CMakeFiles/cPlusPlus.dir/howDoeLinkerWork/linker.cpp.obj CMakeFiles/cPlusPlus.dir/cPlusPlusVariable/variable.cpp.obj CMakeFiles/cPlusPlus.dir/cPlusPlusFunction/cPlusPlusFunction.cpp.obj CMakeFiles/cPlusPlus.dir/cPlusPlusConditionalStatement/ConditionalStatement.cpp.obj CMakeFiles/cPlusPlus.dir/cPlusPlusLoop/cPlusPlusLoop.cpp.obj CMakeFiles/cPlusPlus.dir/cPlusPlusControlFlow/cPlusPlusControlFlow.cpp.obj CMakeFiles/cPlusPlus.dir/cPlusPlusPointer/cPlusPlusPointer.cpp.obj CMakeFiles/cPlusPlus.dir/cPlusPlusQuote/cPlusPlusQuote.cpp.obj CMakeFiles/cPlusPlus.dir/cPlusPlusClass/cPlusPlusClass.cpp.obj CMakeFiles/cPlusPlus.dir/cPlusPlusStaticPropertiesOfClass/cPlusPlusStaticPropertiesOfClass.cpp.obj CMakeFiles/cPlusPlus.dir/cPlusPlusEnums/cPlusPlusEnums.cpp.obj CMakeFiles/cPlusPlus.dir/cPlusPlusConstructor/cPlusPlusConstructor.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\cPlusPlus.dir

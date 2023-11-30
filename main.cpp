@@ -23,7 +23,8 @@ int main() {
     // for(int j = 0; j < 5; j++) {
     //     superAdd();
     //  }
-    initSingleExample();
+    // initSingleExample();
+    initExample();
      using namespace std;
     // cout << result << endl;
     // cout << controlResult << endl;
