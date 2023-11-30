@@ -26,7 +26,8 @@ int main() {
     // initSingleExample();
     // initExample();
     // initPhone();
-    initModel();
+    // initModel();
+    initCard();
      using namespace std;
     // cout << result << endl;
     // cout << controlResult << endl;
