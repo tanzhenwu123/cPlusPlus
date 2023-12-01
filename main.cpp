@@ -30,7 +30,8 @@ int main() {
     // initCard();
     // printStr();
     // initConst();
-    initMember();
+    // initMember();
+    initTernaryOperator();
      using namespace std;
     // cout << result << endl;
     // cout << controlResult << endl;

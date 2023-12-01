@@ -18,5 +18,6 @@ void initCard();
 void printStr();
 void initConst();
 void initMember();
+void initTernaryOperator();
 
 #endif //CPLUSPLUS_INIT_H
