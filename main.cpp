@@ -32,7 +32,8 @@ int main() {
     // initConst();
     // initMember();
     // initTernaryOperator();
-    initCreateAndInit();
+    // initCreateAndInit();
+    initNewKeyWord();
      using namespace std;
     // cout << result << endl;
     // cout << controlResult << endl;

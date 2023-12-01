@@ -20,5 +20,6 @@ void initConst();
 void initMember();
 void initTernaryOperator();
 void initCreateAndInit();
+void initNewKeyWord();
 
 #endif //CPLUSPLUS_INIT_H
