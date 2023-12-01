@@ -29,7 +29,8 @@ int main() {
     // initModel();
     // initCard();
     // printStr();
-    initConst();
+    // initConst();
+    initMember();
      using namespace std;
     // cout << result << endl;
     // cout << controlResult << endl;

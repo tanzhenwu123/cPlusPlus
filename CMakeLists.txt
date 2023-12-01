@@ -27,4 +27,5 @@ add_executable(cPlusPlus main.cpp
         CplusPlusArray/index.cpp
         cPlusPlusString/index.cpp
         cPlusPlusConst/index.cpp
+        cPlusPlusMemberInitList/index.cpp
 )

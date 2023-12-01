@@ -17,5 +17,6 @@ void initModel();
 void initCard();
 void printStr();
 void initConst();
+void initMember();
 
 #endif //CPLUSPLUS_INIT_H
