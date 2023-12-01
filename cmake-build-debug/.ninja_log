@@ -1,12 +1,12 @@
 # ninja log v5
 13	174	7222660692995024	CMakeFiles/cPlusPlus.dir/howCompilerWork/compiler.cpp.obj	4adda2d895238eaf
-1	176	7231200387921737	build.ninja	21cafc69e9371726
+1	176	7231213403584078	build.ninja	21cafc69e9371726
 17	341	7228582195485684	CMakeFiles/cPlusPlus.dir/cPlusPlusQuote/cPlusPlusQuote.cpp.obj	cfa9bdc35b7b2d9f
 13	289	7222727767326137	CMakeFiles/cPlusPlus.dir/cPlusPlusFunction/cPlusPlusFunction.cpp.obj	c05713553046b41a
 36	113	7228683109365619	CMakeFiles/cPlusPlus.dir/cPlusPlusEnums/cPlusPlusEnums.cpp.obj	c3e54f394ab022b2
-7	333	7231179353422289	CMakeFiles/cPlusPlus.dir/main.cpp.obj	9fd590f4e1d188d7
+5	335	7231208205941376	CMakeFiles/cPlusPlus.dir/main.cpp.obj	9fd590f4e1d188d7
 23	333	7222660694599376	CMakeFiles/cPlusPlus.dir/howDoeLinkerWork/linker.cpp.obj	934d60c0a1895d1
-289	452	7231194224902264	cPlusPlus.exe	8f36c943f00b6396
+349	517	7231208207714946	cPlusPlus.exe	51a859113d30cd15
 28	1265	7228450111397286	CMakeFiles/cPlusPlus.dir/cPlusPlusConditionalStatement/ConditionalStatement.cpp.obj	ad61244b88f29e9d
 2	281	7222679512641209	CMakeFiles/cPlusPlus.dir/cPlusPlusVariable/variable.cpp.obj	7625626e97daf020
 2	270	7228472087226002	CMakeFiles/cPlusPlus.dir/cPlusPlusLoop/cPlusPlusLoop.cpp.obj	8d4d91c8e565de0e
@@ -22,6 +22,19 @@
 5	299	7231146377787297	CMakeFiles/cPlusPlus.dir/cPlusPlusString/index.cpp.obj	693f5a3359780947
 23	358	7231179353681808	CMakeFiles/cPlusPlus.dir/cPlusPlusConst/index.cpp.obj	384e56d2f003326e
 4	289	7231194223311674	CMakeFiles/cPlusPlus.dir/cPlusPlusMemberInitList/index.cpp.obj	cd20b660145a9e56
-5	335	7231208205941376	CMakeFiles/cPlusPlus.dir/main.cpp.obj	9fd590f4e1d188d7
 15	348	7231208206073209	CMakeFiles/cPlusPlus.dir/cPlusPlusTernaryOperator/index.cpp.obj	aee2d269ff6786a5
-349	517	7231208207714946	cPlusPlus.exe	51a859113d30cd15
+5	295	7231216291156745	CMakeFiles/cPlusPlus.dir/main.cpp.obj	9fd590f4e1d188d7
+19	305	7231216291256388	CMakeFiles/cPlusPlus.dir/cPlusPlusCreateAndInitCplusPlusObject/index.cpp.obj	7bb55d55c7a77d84
+305	477	7231216292928431	cPlusPlus.exe	242e252b3428e1d9
+4	301	7231222498009831	CMakeFiles/cPlusPlus.dir/cPlusPlusCreateAndInitCplusPlusObject/index.cpp.obj	7bb55d55c7a77d84
+302	460	7231222499565628	cPlusPlus.exe	242e252b3428e1d9
+4	289	7231222733475186	CMakeFiles/cPlusPlus.dir/cPlusPlusCreateAndInitCplusPlusObject/index.cpp.obj	7bb55d55c7a77d84
+290	451	7231222735054760	cPlusPlus.exe	242e252b3428e1d9
+5	331	7231224627926360	CMakeFiles/cPlusPlus.dir/cPlusPlusCreateAndInitCplusPlusObject/index.cpp.obj	7bb55d55c7a77d84
+331	481	7231224629385236	cPlusPlus.exe	242e252b3428e1d9
+5	290	7231225452265975	CMakeFiles/cPlusPlus.dir/cPlusPlusCreateAndInitCplusPlusObject/index.cpp.obj	7bb55d55c7a77d84
+291	434	7231225453666799	cPlusPlus.exe	242e252b3428e1d9
+6	332	7231226631739648	CMakeFiles/cPlusPlus.dir/cPlusPlusCreateAndInitCplusPlusObject/index.cpp.obj	7bb55d55c7a77d84
+332	490	7231226633295134	cPlusPlus.exe	242e252b3428e1d9
+4	288	7231226927768471	CMakeFiles/cPlusPlus.dir/cPlusPlusCreateAndInitCplusPlusObject/index.cpp.obj	7bb55d55c7a77d84
+288	445	7231226929302860	cPlusPlus.exe	242e252b3428e1d9

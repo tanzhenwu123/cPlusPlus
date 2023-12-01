@@ -29,4 +29,5 @@ add_executable(cPlusPlus main.cpp
         cPlusPlusConst/index.cpp
         cPlusPlusMemberInitList/index.cpp
         cPlusPlusTernaryOperator/index.cpp
+        cPlusPlusCreateAndInitCplusPlusObject/index.cpp
 )

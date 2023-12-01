@@ -31,7 +31,8 @@ int main() {
     // printStr();
     // initConst();
     // initMember();
-    initTernaryOperator();
+    // initTernaryOperator();
+    initCreateAndInit();
      using namespace std;
     // cout << result << endl;
     // cout << controlResult << endl;

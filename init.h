@@ -19,5 +19,6 @@ void printStr();
 void initConst();
 void initMember();
 void initTernaryOperator();
+void initCreateAndInit();
 
 #endif //CPLUSPLUS_INIT_H
