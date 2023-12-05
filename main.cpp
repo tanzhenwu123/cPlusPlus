@@ -33,7 +33,8 @@ int main() {
     // initMember();
     // initTernaryOperator();
     // initCreateAndInit();
-    initNewKeyWord();
+    // initNewKeyWord();
+    initImp();
      using namespace std;
     // cout << result << endl;
     // cout << controlResult << endl;
