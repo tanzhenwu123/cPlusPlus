@@ -32,4 +32,5 @@ add_executable(cPlusPlus main.cpp
         cPlusPlusCreateAndInitCplusPlusObject/index.cpp
         cPlusPlusNewKeyWord/index.cpp
         cPlusPlusImplicitConversion/index.cpp
+        cPlusPlusOperatorsAndOverLoad/index.cpp
 )

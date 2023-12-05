@@ -22,5 +22,6 @@ void initTernaryOperator();
 void initCreateAndInit();
 void initNewKeyWord();
 void initImp();
+void initOperatorsAndOverLoad();
 
 #endif //CPLUSPLUS_INIT_H

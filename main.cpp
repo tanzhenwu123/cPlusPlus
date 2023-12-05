@@ -34,7 +34,8 @@ int main() {
     // initTernaryOperator();
     // initCreateAndInit();
     // initNewKeyWord();
-    initImp();
+    // initImp();
+    initOperatorsAndOverLoad();
      using namespace std;
     // cout << result << endl;
     // cout << controlResult << endl;
