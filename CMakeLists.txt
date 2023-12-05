@@ -37,4 +37,5 @@ add_executable(cPlusPlus main.cpp
         cPlusPlusObjectLifeCycle/index.cpp
         cPlusPlusCopyConstructor/index.cpp
         cPlusPlusArrowOperator/index.cpp
+        cPlusPlusDynamicArray/index.cpp
 )

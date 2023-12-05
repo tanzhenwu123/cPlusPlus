@@ -1,7 +1,7 @@
 # ninja log v5
 17	341	7228582195485684	CMakeFiles/cPlusPlus.dir/cPlusPlusQuote/cPlusPlusQuote.cpp.obj	cfa9bdc35b7b2d9f
 13	289	7222727767326137	CMakeFiles/cPlusPlus.dir/cPlusPlusFunction/cPlusPlusFunction.cpp.obj	c05713553046b41a
-0	257	7234735045195614	build.ninja	21cafc69e9371726
+0	257	7234746155189774	build.ninja	21cafc69e9371726
 13	174	7222660692995024	CMakeFiles/cPlusPlus.dir/howCompilerWork/compiler.cpp.obj	4adda2d895238eaf
 36	113	7228683109365619	CMakeFiles/cPlusPlus.dir/cPlusPlusEnums/cPlusPlusEnums.cpp.obj	c3e54f394ab022b2
 12	473	7234717356128049	CMakeFiles/cPlusPlus.dir/main.cpp.obj	9fd590f4e1d188d7
