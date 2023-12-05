@@ -35,4 +35,5 @@ add_executable(cPlusPlus main.cpp
         cPlusPlusOperatorsAndOverLoad/index.cpp
         cPlusPlusThisKeyWords/index.cpp
         cPlusPlusObjectLifeCycle/index.cpp
+        cPlusPlusCopyConstructor/index.cpp
 )

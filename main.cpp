@@ -37,7 +37,8 @@ int main() {
     // initImp();
     // initOperatorsAndOverLoad();
     // initThis();
-    initCycle();
+    // initCycle();
+    initCopy();
      using namespace std;
     // cout << result << endl;
     // cout << controlResult << endl;
