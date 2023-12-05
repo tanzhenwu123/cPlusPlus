@@ -26,5 +26,6 @@ void initOperatorsAndOverLoad();
 void initThis();
 void initCycle();
 void initCopy();
+void initArrow();
 
 #endif //CPLUSPLUS_INIT_H

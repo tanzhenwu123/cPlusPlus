@@ -38,7 +38,8 @@ int main() {
     // initOperatorsAndOverLoad();
     // initThis();
     // initCycle();
-    initCopy();
+    // initCopy();
+    initArrow();
      using namespace std;
     // cout << result << endl;
     // cout << controlResult << endl;

@@ -36,4 +36,5 @@ add_executable(cPlusPlus main.cpp
         cPlusPlusThisKeyWords/index.cpp
         cPlusPlusObjectLifeCycle/index.cpp
         cPlusPlusCopyConstructor/index.cpp
+        cPlusPlusArrowOperator/index.cpp
 )
