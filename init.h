@@ -24,5 +24,6 @@ void initNewKeyWord();
 void initImp();
 void initOperatorsAndOverLoad();
 void initThis();
+void initCycle();
 
 #endif //CPLUSPLUS_INIT_H

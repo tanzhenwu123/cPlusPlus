@@ -36,7 +36,8 @@ int main() {
     // initNewKeyWord();
     // initImp();
     // initOperatorsAndOverLoad();
-    initThis();
+    // initThis();
+    initCycle();
      using namespace std;
     // cout << result << endl;
     // cout << controlResult << endl;
