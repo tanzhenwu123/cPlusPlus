@@ -39,7 +39,8 @@ int main() {
     // initThis();
     // initCycle();
     // initCopy();
-    initArrow();
+    // initArrow();
+    initVector();
      using namespace std;
     // cout << result << endl;
     // cout << controlResult << endl;
