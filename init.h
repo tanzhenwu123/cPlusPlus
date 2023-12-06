@@ -28,5 +28,6 @@ void initCycle();
 void initCopy();
 void initArrow();
 void initVector();
+void initTemplate();
 
 #endif //CPLUSPLUS_INIT_H

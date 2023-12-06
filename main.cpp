@@ -40,7 +40,8 @@ int main() {
     // initCycle();
     // initCopy();
     // initArrow();
-    initVector();
+    // initVector();
+    initTemplate();
      using namespace std;
     // cout << result << endl;
     // cout << controlResult << endl;
