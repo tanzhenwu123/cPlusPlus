@@ -39,4 +39,5 @@ add_executable(cPlusPlus main.cpp
         cPlusPlusArrowOperator/index.cpp
         cPlusPlusDynamicArray/index.cpp
         cPlusPlusTemplate/index.cpp
+        cPlusPlusGrand/index.cpp
 )

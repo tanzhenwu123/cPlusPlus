@@ -29,5 +29,6 @@ void initCopy();
 void initArrow();
 void initVector();
 void initTemplate();
+void initGrand();
 
 #endif //CPLUSPLUS_INIT_H

@@ -41,7 +41,8 @@ int main() {
     // initCopy();
     // initArrow();
     // initVector();
-    initTemplate();
+    // initTemplate();
+    initGrand();
      using namespace std;
     // cout << result << endl;
     // cout << controlResult << endl;
