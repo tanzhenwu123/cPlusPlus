@@ -40,4 +40,6 @@ add_executable(cPlusPlus main.cpp
         cPlusPlusDynamicArray/index.cpp
         cPlusPlusTemplate/index.cpp
         cPlusPlusGrand/index.cpp
+        cPlusPlusAutoKeyWords/index.cpp
+        cPlusPlusCreateArray/index.cpp
 )

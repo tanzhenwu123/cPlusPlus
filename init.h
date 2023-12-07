@@ -30,5 +30,6 @@ void initArrow();
 void initVector();
 void initTemplate();
 void initGrand();
+void initCreateArray();
 
 #endif //CPLUSPLUS_INIT_H

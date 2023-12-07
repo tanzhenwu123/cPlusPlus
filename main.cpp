@@ -42,7 +42,8 @@ int main() {
     // initArrow();
     // initVector();
     // initTemplate();
-    initGrand();
+    // initGrand();
+    initCreateArray();
      using namespace std;
     // cout << result << endl;
     // cout << controlResult << endl;
